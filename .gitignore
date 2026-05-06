@@ -3,3 +3,5 @@ tests
 test.py
 Generate.py
 generated_sql
+_pycache__
+*.pyc
